@@ -1,0 +1,11 @@
+/* CSS_Lists.css */
+
+/* Change the list item marker for unordered lists */
+ul {
+    list-style-type: square; /* You can choose other values like 'circle', 'disc', etc. */
+}
+
+/* Change the list item marker for ordered lists */
+ol {
+    list-style-type: upper-roman; /* You can choose other values like 'decimal', 'lower-alpha', etc. */
+}

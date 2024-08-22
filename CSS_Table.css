@@ -1,0 +1,23 @@
+/* CSS_Table.css */
+
+/* Background color for the entire table */
+table {
+    background-color:  silver;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Font color for table headers (th) */
+th {
+    color:  red;
+}
+
+/* Hover effect for table rows (tr) */
+tr:hover {
+    background-color:  lightgreen;
+}
+
+/* Border for the entire table */
+table {
+    border: 1px solid  green;
+}
